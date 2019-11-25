@@ -1,0 +1,14 @@
+{
+  "orgName": "LwC Knowledge",
+  "edition": "Developer",
+  "adminEmail": "mike@cloudava.com",
+  "hasSampleData": false,
+  "features": [
+    "ServiceCloud",
+    "ServiceUser",
+    "Communities",
+    "Sites",
+    "SiteDotCom",
+    "Knowledge"
+  ]
+}
